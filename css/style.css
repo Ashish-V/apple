@@ -73,6 +73,7 @@ nav li{
   color:grey;
   font-size: 18px;
   font-style: normal;
+  font-family: sans-serif;
 }
 .second2 h4{
   text-align: center;
@@ -139,4 +140,7 @@ footer .f5 ul{
 }
 footer .f3{
   text-align: center;
+}
+footer .f4{
+  padding-left: 20px;
 }
