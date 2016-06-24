@@ -1,0 +1,51 @@
+article img{
+  float: left;
+  margin-left: 30px;
+}
+.first{
+  float: right;
+  width: 700px;
+  margin: auto;
+  margin-right: 350px;
+}
+.first a{
+  text-decoration: none;
+  color: grey;
+  font-style: italic;
+}
+.first a:hover{
+  color:black;
+}
+.list a{
+  color:green;
+  text-decoration: none;
+  font-style: italic;
+  padding: 0 2px;
+}
+.list li:after{
+  content: '\\'
+
+}
+.list li:last-child:after{
+  content:none;
+}
+.list li{
+ list-style: none;
+ display: inline;
+}
+.list a:hover{
+  color: black;
+}
+.body{
+  width: 300px;
+  margin: auto;
+  margin-right: 400px;
+  clear: both;
+}
+h2{
+  font-family: sans-serif;
+}
+.abc a{
+  float: right;
+  margin-right: 300px;
+}

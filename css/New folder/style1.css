@@ -1,0 +1,25 @@
+.first{
+margin: auto;
+min-width: 80%;
+width: 600px;
+background-color: green;
+overflow: hidden;
+
+}
+.second{
+  background-color: grey;
+  min-width: 80%;
+  float: left;
+
+}
+aside{
+  background-color: red;
+  min-width: 20%;
+  float: left;
+}
+aside ul{
+  padding-left:20px;
+}
+.second,aside{
+  height: 500px;
+}
